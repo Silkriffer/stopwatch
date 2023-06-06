@@ -50,3 +50,14 @@ button i {
 #pause {
     background-color: orange;
 }
+@media (max-width: 768px) 
+ {
+    #timer {
+        text-align: center;
+    padding: 35px;
+    font-size: 20px;
+    }
+    h1 {
+        font-size: 20px;
+    }
+ }
